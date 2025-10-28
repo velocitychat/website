@@ -1,2 +1,2 @@
 # website
-Website for Escaropen.
+Website for Velocity.
